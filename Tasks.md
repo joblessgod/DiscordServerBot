@@ -1,3 +1,5 @@
 - add moderator commands
-- add music player commands
-- add roles, welcome/leaving
+- add music system
+- add leveling/welcome/leaving system 
+- add server logs system 
+- add roles management system 
